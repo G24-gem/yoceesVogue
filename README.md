@@ -1,0 +1,2 @@
+# yoceesVogue
+A Client product
